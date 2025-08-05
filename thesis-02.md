@@ -17,12 +17,12 @@ We can build your thesis around these:
 
 
 
-3. | Sensor Type     | Best For               | Limitations                   | Use Case           | Data Format    | AI-Friendly? |
-|------------------|------------------------|-------------------------------|---------------------|----------------|--------------|
-| Ultrasonic       | Internal cracks        | Can’t scan large areas easily| Concrete beams      | Echo pattern   | yes            |
-| LiDAR            | 3D surface defects     | Expensive, requires drone     | Bridge surface      | Point clouds   | yes            |
-| IR Thermal       | Hidden cracks via heat | Affected by weather           | Wall surface        | Heat maps      | yes            |
-| Visual Camera    | Surface cracks         | Can’t detect deep issues      | Metal structures    | Images         | yes            |
+3.| **Sensor Type**   | **Best For**            | **Limitations**                 | **Use Case**        | **Data Format** | **AI-Friendly?** |
+|------------------|-------------------------|----------------------------------|---------------------|-----------------|------------------|
+| Ultrasonic       | Internal cracks         | Can’t scan large areas easily   | Concrete beams      | Echo pattern    | ✅               |
+| LiDAR            | 3D surface defects      | Expensive, requires drone       | Bridge surface      | Point clouds    | ✅               |
+| IR Thermal       | Hidden cracks via heat  | Affected by weather             | Wall surface        | Heat maps       | ✅               |
+| Visual Camera    | Surface cracks          | Can’t detect deep issues        | Metal structures    | Images          | ✅               |
 
 Suggested Sensor Fusion
 - **Ultrasonic + IR Thermal** → Ideal for detecting both internal and hidden thermal cracks in concrete.
