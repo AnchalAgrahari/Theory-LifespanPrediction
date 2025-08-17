@@ -7,7 +7,7 @@ This focuses on: “How can we predict and alert before a structure fails using 
 
 2. Keep this short, relatable, and researchable.
 
-We can build your thesis around these:
+We can build our thesis around these:
 | Section                | Focus                           | Example Questions                                               |
 |------------------------|----------------------------------|-----------------------------------------------------------------|
 | Sensor Comparison      | Study various sensors            | “Which sensor gives better internal crack detection?”           |
