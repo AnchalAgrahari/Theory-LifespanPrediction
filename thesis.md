@@ -20,4 +20,6 @@ It is the process of colleecting information about an area from distance without
  3. Visual or OPtical sensor -- images or video, surface-level cracks.
  4. light detection and ranging (LiDAR) -- send laser beam and measure the returns to map 3D surface,surface  deformation or uneven areas
  5. Strain Gauges --material straches or compress (steel/concreate), long term monitoring, detect unusual strain before cracks form
+
+
  
